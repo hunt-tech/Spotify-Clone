@@ -15,21 +15,7 @@ https://spotify-clone-webb.vercel.app/
 
  <hr>
 
-## Screenshots
 
-<hr>
-
-## Run Locally
-Clone the project
-
-```bash
-  git clone https://github.com/Chirag047/Spotify-Clone.git
-```
-Go to the project directory
-
-```bash
-  cd Spotify-Clone
-```
 Start the development by running file index.html with live server extension.
 
 <hr>
@@ -38,7 +24,7 @@ Start the development by running file index.html with live server extension.
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Chirag_Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragnagar047/)
-[![GitHub](https://img.shields.io/badge/Chirag_Nagar-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Chirag047)
+[![Instagram](https://img.shields.io/badge/Ankit_Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/_hunt.nub?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![GitHub](https://img.shields.io/badge/Ankit_Raj-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/hunt-tech)
 
-[@Chirag047](https://github.com/Chirag047)
+[@hunt-tech](https://github.com/hunt-tech)
